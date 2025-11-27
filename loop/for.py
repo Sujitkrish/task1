@@ -6,9 +6,10 @@
 #         else:
 #             print(f"{i} is even")
 # oddnum(a)
-a= int(input("Number: "))
-def muli(a):
-    for i in range (0,11):
-        b = i*2
-        print(b)
-muli(a)
+#----------------------------------------
+# a= int(input("Number: "))
+# def muli(a):
+#     for i in range (0,11):
+#         b = i*2
+#         print(b)
+# muli(a)
