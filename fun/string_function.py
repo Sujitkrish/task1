@@ -24,5 +24,5 @@
 # print(b)
 # print(len(b))
 # - Write a program that finds the index of the first occurrence of "o" in "Hello World" using find().
-a="Hello World"
-print(a.find("l"))
+# a="Hello World"
+# print(a.find("l"))
